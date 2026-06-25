@@ -121,10 +121,7 @@ The classic Iris dataset, embedded directly in the file.
 ---
 
 ## How to Run
-**Option 1 — Claude Artifact (recommended)**
-Open the file `iris_knn_project.jsx` in [Claude.ai](https://claude.ai) as a React artifact. It renders and runs entirely in the browser — no setup required.
-
-**Option 2 — Local React environment**
+** — Local React environment**
 # Clone the repository
 git clone https://github.com/RonakKumar9753/Project-2.git
 cd Project-2
